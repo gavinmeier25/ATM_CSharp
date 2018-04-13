@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B58BC73C-E8E2-4A0F-8B02-ABABD4091906}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ATM/Menu.cs">
+    <Files>
+      <File FileName="ATM/Menu.cs" Line="11" Column="18" />
+      <File FileName="ATM/Account.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ATM PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
